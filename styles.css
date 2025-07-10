@@ -21,7 +21,7 @@ header, footer, section {
 nav {
   background: url('images/nav-bg.png') no-repeat center center;
   background-size: cover;
-  padding: 20px 40px;
+  padding: 25px 40px;
   display: flex;
   justify-content: space-between;
   align-items: center;

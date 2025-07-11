@@ -14,17 +14,20 @@ color: #111;
 header, footer, section {
   padding: 60px 20px;
   text-align: center;
+  
 }
 
 
 
 nav {
-  background: url('images/nav-bg.png') no-repeat center center;
-  background-size: cover;
+  background: url('images./nav-bg.png') no-repeat center;
+  background-size:cover;
   padding: 25px 40px;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
+  
 }
 
 nav .logo {
@@ -49,7 +52,7 @@ nav .cta:hover {
 
 
 .hero {
-  background: url('images/hero-bg.png') no-repeat center center;
+  background: url('images./hero-bg.png') no-repeat center center;
   background-size: cover;
   color: rgb(2, 1, 1);
   padding: 100px 30px;
